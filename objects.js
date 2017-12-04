@@ -1,6 +1,7 @@
-var Objects = new Object(playlist)
+var playlist = {
   // metallica: 'one',
   // ozzy: 'paranoid'
+}
 
 
 // function updatePlaylist() {
