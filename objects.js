@@ -3,6 +3,6 @@ var playlist = {
   ozzy: 'paranoid'
 }
 
-// function updatePlaylist() {
-// return playlist.assign(artistName: songTitle)
-// }
+function updatePlaylist() {
+return playlist.assign(artistName: songTitle)
+}
