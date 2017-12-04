@@ -1,6 +1,6 @@
 var playlist = {
-  // metallica: 'one',
-  // ozzy: 'paranoid'
+  metallica: 'one',
+  ozzy: 'paranoid'
 }
 
 
