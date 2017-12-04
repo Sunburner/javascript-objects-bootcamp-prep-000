@@ -1,4 +1,4 @@
-var playlist = new Object()
+var Objects = new Object(playlist)
   // metallica: 'one',
   // ozzy: 'paranoid'
 
